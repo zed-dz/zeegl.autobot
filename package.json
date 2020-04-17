@@ -1,0 +1,25 @@
+{
+  "name": "zeegl-autobot",
+  "version": "1.0.0",
+  "description": "ZeeGl AutoBot is an automation click bot that is built with Puppeteer.js library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zed-m/zeegl.autobot.git"
+  },
+  "author": "Code Talk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zed-m/zeegl.autobot/issues"
+  },
+  "homepage": "https://github.com/zed-m/zeegl.autobot#readme",
+  "dependencies": {
+    "@cliqz/adblocker-puppeteer": "^1.14.1",
+    "cross-fetch": "^3.0.4",
+    "puppeteer": "^3.0.0",
+    "shelljs": "^0.8.3"
+  }
+}
