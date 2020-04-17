@@ -85,7 +85,6 @@ local.properties
 # PDT-specific
 .buildpath
 
-
 #################
 ## Visual Studio
 #################
@@ -152,8 +151,8 @@ ipch/
 *.gpState
 
 # ReSharper is a .NET coding add-in
-_ReSharper*/
-*.[Rr]e[Ss]harper
+# _ReSharper*/
+# *.[Rr]e[Ss]harper
 
 # TeamCity is a build add-in
 _TeamCity*
@@ -204,7 +203,7 @@ ClientBin/
 ~$*
 *~
 *.dbmdl
-*.[Pp]ublish.xml
+# *.[Pp]ublish.xml
 *.pfx
 *.publishsettings
 
@@ -239,12 +238,11 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 
-
 #############
 ## Python
 #############
 
-*.py[co]
+# *.py[co]
 
 # Packages
 *.egg
