@@ -38,7 +38,7 @@ const shorten = {
         await page.setJavaScriptEnabled(false)
       }
       await page.close()
-      // for windows
+      // for windows (ps: it will kill all chrome processes even your chrome browser)
       shell.exec('taskkill /F /IM chrome.exe')
       // for mac or linux
       // shell.exec('pkill chrome')  // shell.exec('pkill chromium')

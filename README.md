@@ -24,7 +24,7 @@ This is just a quick overview to showcase how powerful Puppetter.js can be, any 
 - Modular Puppeteer.js usage
 - Asynchronous JavaScript (Async / Await rich syntax with error handling)
 - Block script loading
-- Process shell kill
+- Process shell kill (PS: it will kill all chrome processes even your chrome browser, use it carefully)
 
 ## Quick Setup
 
@@ -38,6 +38,7 @@ npm install -s puppeteer @cliqz/adblocker-puppeteer cross-fetch
 # Build for production (open cmd / git bash)
 node ./index.js
 ```
+> @cliqz/adblocker-puppeteer uses an old version puppeteer (2.1.1) you may want to remove it and update puppeteer to the latest version with npm i puppeteer@latest (3.0.0)
 
 ## Future updates
 
