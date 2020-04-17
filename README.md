@@ -93,6 +93,7 @@ This project is licensed under the MIT License
 ### Inquiries
 
 ► WhatsApp: +213 (0) 673 835 525
+
 ► E-mail: codetalk18@gmail.com
 
 ### Code Talk
@@ -102,9 +103,13 @@ This project is licensed under the MIT License
 ### 𝗝𝗼𝗶𝗻 𝘁𝗵𝗲 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆⁣
 
 ► Facebook: https://www.facebook.com/dzcode.talk/ (10.3k) 📴
-► Facebook_Group: https://www.facebook.com/groups/715279422170253/ (3.4k) 🖥
+
+► Group: https://www.facebook.com/groups/715279422170253/ (3.4k) 🖥
+
 ► Instagram: https://instagram.com/code__talk (2.1k) 👨‍💻
+
 ► Twitter: https://twitter.com/code__talk/ (0.3k) 💻
+
 ► GitHub: https://github.com/zed-m/dzcode.talk 📚
 
 > > > © Share The Talk & Talk The Code.
