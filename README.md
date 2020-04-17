@@ -35,6 +35,8 @@ This is just a quick overview to showcase how powerful Puppetter.js can be, any 
 # Install package.json dependencies
 npm install -s puppeteer @cliqz/adblocker-puppeteer cross-fetch
 
+# Open shorten.js and change your zee.gl shorten BASE_URL
+
 # Build for production (open cmd / git bash)
 node ./index.js
 ```
